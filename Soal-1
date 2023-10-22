@@ -1,6 +1,4 @@
 package SoalSatu;
-
-
 import java.util.Scanner;
 
 class Perawatan {
