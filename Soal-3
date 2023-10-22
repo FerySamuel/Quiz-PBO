@@ -1,4 +1,4 @@
-package QuizTiga;
+package SoalTiga;
 import java.util.Scanner;
 
 class Pemesanan {
